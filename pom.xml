@@ -13,7 +13,7 @@
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
-            <version>9.9.9</version> <!-- LỖI 1: Phiên bản không tồn tại -->
+            <version>1.4.11</version>
         </dependency>
         <dependency>
             <groupId>org.junit.jupiter</groupId>
